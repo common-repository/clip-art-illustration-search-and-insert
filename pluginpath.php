@@ -1,0 +1,1 @@
+/home/artman/public_html/wp-content/plugins/clip-art-illustration-search-and-insert/
